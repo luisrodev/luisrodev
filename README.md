@@ -1,16 +1,17 @@
-### Hi there 👋
+👨‍💻 **Full-Stack Developer | JavaScript & TypeScript Enthusiast**  
 
-<!--
-**luisrodev/luisrodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer with experience in **React, Node.js, and TypeScript**, building high-performance and scalable web and mobile applications.
 
-Here are some ideas to get you started:
+🔹 **Front-end:** React, Zustand, Tailwind CSS, Astro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **Back-end:** Node.js, Express
+
+🔹 **Databases:** MySQL, PostgreSQL, MongoDB
+
+🔹 **Mobile Development:** React Native
+
+🔹 **Optimization & Performance:** SSR, PWA, Web Performance
+
+🔹 **Dev Tools:** Jest, Vitest, ESLint
+
+Always exploring new technologies, scalable architectures, and best development practices. 🚀 
