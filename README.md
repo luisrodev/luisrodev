@@ -1,4 +1,4 @@
-👨‍💻 **Full-Stack Developer | JavaScript & TypeScript Enthusiast**  
+👨‍💻 **Software Developer | JavaScript & TypeScript Enthusiast**  
 
 Developer with experience in **React, Node.js, and TypeScript**, building high-performance and scalable web and mobile applications.
 
@@ -8,7 +8,7 @@ Developer with experience in **React, Node.js, and TypeScript**, building high-p
 
 🔹 **Databases:** MySQL, PostgreSQL, MongoDB
 
-🔹 **Mobile Development:** React Native
+🔹 **Mobile Development:** React Native & Expo
 
 🔹 **Optimization & Performance:** SSR, PWA, Web Performance
 
