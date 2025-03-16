@@ -11,6 +11,7 @@ Developer with experience in **React, Node.js, and TypeScript**, building high-p
 🔹 **Mobile Development:** React Native & Expo
 
 🔹 **Optimization & Performance:** SSR, PWA, Web Performance
+🔹 DevOps: Docker, Docker Compose
 
 🔹 **Dev Tools:** Jest, Vitest, ESLint
 
