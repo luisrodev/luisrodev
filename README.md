@@ -1,4 +1,4 @@
-👨‍💻 **Software Developer | JavaScript & TypeScript Enthusiast**  
+👨‍💻 **Software Developer | JavaScript & TypeScript Enthusiast**  🤘🏼
 
 Developer with experience in **React, Node.js, and TypeScript**, building high-performance and scalable web and mobile applications.
 
