@@ -6,7 +6,7 @@ Developer with experience in **React, Node.js, and TypeScript**, building high-p
 
 🔹 **Back-end:** Node.js, Express
 
-🔹 **Databases:** MySQL, PostgreSQL, MongoDB
+🔹 **Databases:** MySQL, PostgreSQL, SQLite, MongoDB
 
 🔹 **Mobile Development:** React Native & Expo
 
