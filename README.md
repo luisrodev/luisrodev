@@ -1,19 +1,47 @@
-👨‍💻 **Software Developer | JavaScript & TypeScript Enthusiast**  🤘🏼
+# Hi, I'm Luis Rubio 👋
 
-Developer with experience in **React, Node.js, and TypeScript**, building high-performance and scalable web and mobile applications.
+👨‍💻 **Software Developer with 7+ years of experience** specializing in full-stack and cross-platform application development.
 
-🔹 **Front-end:** React, Zustand, Tailwind CSS, Astro
+I enjoy working at the intersection of **software and hardware**, building reliable applications and exploring technologies that solve real-world problems. My current work is focused on **Point of Sale (POS) systems**, cross-platform applications, and technical leadership.
 
-🔹 **Back-end:** Node.js, Express
+☕ Software, hardware, and coffee enthusiast.
 
-🔹 **Databases:** MySQL, PostgreSQL, SQLite, MongoDB
+## 🛠️ Tech Stack
 
-🔹 **Mobile Development:** React Native & Expo
+**Languages**
+TypeScript · JavaScript · C# · SQL
 
-🔹 **Optimization & Performance:** SSR, PWA, Web Performance
+**Front-end**
+React · Astro · Tailwind CSS · Zustand
 
-🔹 **DevOps:** Docker, Docker Compose
+**Mobile & Cross-platform**
+React Native · Expo · Electron
 
-🔹 **Dev Tools:** Jest, Vitest, ESLint
+**Back-end**
+Node.js · Express · .NET
 
-Always exploring new technologies, scalable architectures, and best development practices. 🚀 
+**Databases**
+PostgreSQL · SQLite · MongoDB · MySQL
+
+**DevOps & Infrastructure**
+Docker · Linux · CI/CD
+
+**Testing & Tooling**
+Jest · Vitest · ESLint · Git
+
+## 🚀 What I'm working on
+
+Currently focused on designing and developing **Point of Sale systems**, including mobile, desktop, and web applications, payment terminal integrations, backend services, and the infrastructure required to build and deploy them.
+
+I'm particularly interested in:
+
+* Cross-platform application development
+* Software & hardware integrations
+* System architecture
+* Developer tooling
+* CI/CD and build infrastructure
+* Performance and scalability
+
+## 🌱 Always learning
+
+I'm always exploring new technologies, better architectures, and development practices while improving the tools and systems I work with.
